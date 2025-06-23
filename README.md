@@ -58,7 +58,7 @@ Projeto simples de convite digital para eventos com confirmação de presença v
 
 Para dúvidas ou sugestões, entre em contato:  
 **Email:** seuemail@exemplo.com  
-**Telefone/WhatsApp:** +55 88 99976-0102
+**Telefone/WhatsApp:** +55 88 999999999
 
 ---
 
