@@ -6,7 +6,7 @@ document.getElementById('btnConfirmar').addEventListener('click', function () {
     return;
   }
 
-  const numero = '+5588999760102'; // Altere para seu número real com DDI e DDD
+  const numero = '+5588992440851';
   const mensagem = `Olá! Aqui é ${nome}. Confirmo presença no aniversário da Emylly 🎉`;
 
   const url = `https://wa.me/${numero}?text=${encodeURIComponent(mensagem)}`;
